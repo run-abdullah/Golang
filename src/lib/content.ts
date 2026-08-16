@@ -13,9 +13,13 @@ const markdownFiles = import.meta.glob("../Golang/**/*.md", {
 
 export const documents: MarkdownFile[] = Object.entries(markdownFiles)
   .map(([path, content]) => {
-    // Clean relative path inside Golang folder
+    // Remove everything before the Golang folder
     const cleanPath = path.replace(/^.*\/Golang\//, "");
+
+    // Split folders and filename
     const parts = cleanPath.split("/");
+
+    // Remove .md extension from filename
     const fileName = parts.pop()?.replace(/\.md$/, "") ?? "";
 
     return {
