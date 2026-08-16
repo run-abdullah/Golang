@@ -1,37 +1,52 @@
-## Usage
+# 🐹 Golang Docs Vault
 
-Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
+> **Roman Urdu** mein Golang seekhne aur sikhane ke liye ek modern, fast, aur interactive documentation vault. Designed & Developed by **Abdullah Riaz**.
 
-This is the reason you see a `pnpm-lock.yaml`. That being said, any package manager will work. This file can be safely be removed once you clone a template.
+![License](https://img.shields.io/badge/license-MIT-a3e635?style=flat-square)
+![SolidJS](https://img.shields.io/badge/SolidJS-1.9-2c4f7c?style=flat-square&logo=solid)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-06b6d4?style=flat-square&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-6.x-646cff?style=flat-square&logo=vite)
 
-```bash
-$ npm install # or pnpm install or yarn install
+---
+
+## 🚀 About The Project
+
+Yeh project India aur Pakistan ke emerging backend developers ke liye banaya gaya hai taake wo **Golang (Go)** ke core fundamentals se le kar advance concurrency concepts tak ko easy-to-understand **Roman Urdu** aur visual code examples ke sath seekh sakein.
+
+### ✨ Key Features
+
+- 🌲 **Recursive Tree Navigation:** Vault files aur nested folders ke liye natural numerical sorting (`1-Variables`, `2-Functions`).
+- ⚡ **Lightning Fast:** SolidJS aur Vite v6 par built hone ki wajah se zero-lag rendering.
+- 🎨 **Dark Obsidian UI:** Deep dark background (`#0d0d0d`) aur Neon Green accent (`#a3e635`) theme.
+- 📝 **Enhanced Markdown Support:**
+  - Syntax Highlighting via `highlight.js`
+  - Obsidian-style Callouts (`> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`)
+  - Dynamic Checkboxes, Tables, aur Custom Code Blocks
+- 📱 **Fully Responsive:** Mobile drawer aur desktop sidebar support.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend Framework:** [SolidJS](https://www.solidjs.com/)
+- **Build Tool:** [Vite](https://vitejs.dev/)
+- **Styling:** [Tailwind CSS v4](https://tailwindcss.com/)
+- **Markdown Parser:** [Marked](https://marked.js.org/) + [marked-highlight](https://github.com/markedjs/marked-highlight)
+- **Hosting:** [Cloudflare Pages](https://pages.cloudflare.com/)
+
+---
+
+## 📂 Project Structure
+
+```text
+├── public/
+│   ├── logo.svg           # Custom Gopher SVG Emblem
+│   └── _redirects         # SPA routing for Cloudflare Pages
+├── src/
+│   ├── Golang/            # Markdown documentation notes (.md)
+│   ├── App.tsx            # Main layout & route handlers
+│   ├── Sidebar.tsx        # File tree sidebar navigation
+│   └── global.css         # CSS variables & global styling
+├── package.json
+└── README.md
 ```
-
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm run dev` or `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-
-### `npm run build`
-
-Builds the app for production to the `dist` folder.<br>
-It correctly bundles Solid in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-## Deployment
-
-You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
-
-## This project was created with the [Solid CLI](https://github.com/solidjs-community/solid-cli)
-# Golang
