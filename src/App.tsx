@@ -22,7 +22,7 @@ function App() {
       {/* Main Content Area */}
       <div class="flex flex-1 flex-col min-w-0">
         {/* Top Header */}
-        <header class="flex items-center justify-between border-b border-[#1f1f1f] bg-[#121212]/80 px-4 py-3.5 backdrop-blur-md lg:px-8">
+        <header class="sticky top-0 z-10 flex items-center justify-between border-b border-[#1f1f1f] bg-[#121212]/80 px-4 py-3.5 backdrop-blur-md lg:px-8">
           <div class="flex items-center gap-3">
             <button
               onClick={() => setIsSidebarOpen(true)}

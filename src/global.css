@@ -115,3 +115,26 @@ article .obsidian-link {
 article .obsidian-link:hover {
   filter: brightness(1.2);
 }
+
+/* Markdown Container Base Fixes */
+.markdown-body {
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+/* Checkbox & Task List Styles */
+.markdown-body ul {
+  padding-left: 1.25rem !important;
+}
+
+.markdown-body li {
+  margin-top: 0.35rem;
+  margin-bottom: 0.35rem;
+}
+
+.markdown-body input[type="checkbox"] {
+  margin-right: 0.5rem !important;
+  accent-color: #a3e635; /* Neon Green Theme Accent */
+  transform: scale(1.1);
+  vertical-align: middle;
+}
