@@ -1,0 +1,14 @@
+- [ ]  Pointers
+- [ ]  `&`
+- [ ]  `*`
+- [ ]  Pointer dereferencing
+- [ ]  Pointer to pointer
+- [ ]  Nil pointers
+- [ ]  Pointer receivers
+- [ ]  Value vs pointer semantics
+- [ ]  Stack vs heap conceptual model
+- [ ]  Escape analysis
+- [ ]  `new`
+- [ ]  `make`
+- [ ]  Garbage collection basics
+- [ ]  Memory allocation basics

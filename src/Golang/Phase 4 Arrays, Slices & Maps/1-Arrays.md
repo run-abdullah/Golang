@@ -1,0 +1,4 @@
+- [ ]  Arrays
+- [ ]  Array length
+- [ ]  Array comparison
+- [ ]  Multidimensional arrays

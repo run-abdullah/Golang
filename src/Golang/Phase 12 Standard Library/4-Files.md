@@ -1,0 +1,8 @@
+- [ ]  `os`
+- [ ]  `io`
+- [ ]  `bufio`
+- [ ]  `path`
+- [ ]  `path/filepath`
+- [ ]  File permissions
+- [ ]  Reading files
+- [ ]  Writing files

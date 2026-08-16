@@ -1,0 +1,10 @@
+- [ ]  Channels
+- [ ]  Unbuffered channels
+- [ ]  Buffered channels
+- [ ]  Send
+- [ ]  Receive
+- [ ]  Close
+- [ ]  `range` over channel
+- [ ]  Directional channels
+- [ ]  `chan<-`
+- [ ]  `<-chan`

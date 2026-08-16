@@ -1,0 +1,12 @@
+- [ ]  `context.Context`
+- [ ]  `context.Background`
+- [ ]  `context.TODO`
+- [ ]  `context.WithCancel`
+- [ ]  `context.WithTimeout`
+- [ ]  `context.WithDeadline`
+- [ ]  `context.WithValue`
+- [ ]  Cancellation propagation
+- [ ]  Context in HTTP requests
+- [ ]  Context in database queries
+- [ ]  Context in goroutines
+- [ ]  Context misuse

@@ -1,0 +1,16 @@
+- [ ]  `var`
+- [ ]  `:=`
+- [ ]  Constants
+- [ ]  Type inference
+- [ ]  Zero values
+- [ ]  `int`, `int8`, `int16`, `int32`, `int64`
+- [ ]  `uint` family
+- [ ]  `float32`, `float64`
+- [ ]  `complex64`, `complex128`
+- [ ]  `bool`
+- [ ]  `string`
+- [ ]  `rune`
+- [ ]  `byte`
+- [ ]  Type conversion
+- [ ]  Type aliases
+- [ ]  Defined types

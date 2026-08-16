@@ -1,0 +1,12 @@
+- [ ]  `encoding/json`
+- [ ]  Marshal
+- [ ]  Unmarshal
+- [ ]  Struct tags
+- [ ]  JSON tags
+- [ ]  Custom marshal
+- [ ]  Custom unmarshal
+- [ ]  `json.RawMessage`
+- [ ]  Streaming JSON
+- [ ]  `Decoder`
+- [ ]  `Encoder`
+

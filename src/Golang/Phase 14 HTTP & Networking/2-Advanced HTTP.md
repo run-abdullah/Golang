@@ -1,0 +1,9 @@
+- [ ]  Custom `http.Transport`
+- [ ]  Connection pooling
+- [ ]  Keep-alive
+- [ ]  TLS
+- [ ]  HTTPS
+- [ ]  Reverse proxy
+- [ ]  Streaming responses
+- [ ]  Server-Sent Events
+- [ ]  WebSockets concept

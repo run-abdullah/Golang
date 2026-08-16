@@ -1,0 +1,11 @@
+- [ ]  Race conditions
+- [ ]  Deadlocks
+- [ ]  Data races
+- [ ]  Goroutine leaks
+- [ ]  Worker pools
+- [ ]  Fan-in
+- [ ]  Fan-out
+- [ ]  Pipeline pattern
+- [ ]  Semaphore pattern
+- [ ]  Rate limiting
+- [ ]  Backpressure

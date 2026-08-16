@@ -1,0 +1,18 @@
+- [ ] Go kya hai, philosophy aur design goals
+- [ ] Go installation + `go version`
+- [ ] `go run`
+- [ ] `go build`
+- [ ] `go install`
+- [ ] `go env`
+- [ ] Go workspace
+- [ ] `GOPATH`
+- [ ] Go Modules
+- [ ] `go.mod`
+- [ ] `go.sum`
+- [ ] Packages
+- [ ] `package main`
+- [ ] `func main()`
+- [ ] Imports
+- [ ] Exported vs unexported identifiers
+- [ ] Comments
+- [ ] Formatting with `gofmt`

@@ -1,0 +1,12 @@
+- [ ]  Generic functions
+- [ ]  Type parameters
+- [ ]  Type constraints
+- [ ]  `any`
+- [ ]  `comparable`
+- [ ]  Union constraints
+- [ ]  Generic structs
+- [ ]  Generic methods
+- [ ]  Type inference
+- [ ]  `~` underlying types
+- [ ]  Generic data structures
+- [ ]  When NOT to use generics

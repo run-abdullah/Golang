@@ -1,0 +1,14 @@
+- [ ]  `if`
+- [ ]  `if` with initialization
+- [ ]  `else`
+- [ ]  `else if`
+- [ ]  `for`
+- [ ]  `for` as while
+- [ ]  Infinite loops
+- [ ]  `range`
+- [ ]  `break`
+- [ ]  `continue`
+- [ ]  `switch`
+- [ ]  Expression switch
+- [ ]  Type switch
+- [ ]  `fallthrough`

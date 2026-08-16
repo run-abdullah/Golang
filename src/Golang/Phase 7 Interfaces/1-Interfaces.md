@@ -1,0 +1,20 @@
+- [ ]  Interface kya hota hai
+- [ ]  Implicit interface implementation
+- [ ]  Small interfaces
+- [ ]  Interface values
+- [ ]  Dynamic type
+- [ ]  Dynamic value
+- [ ]  Nil interface
+- [ ]  Typed nil
+- [ ]  Type assertions
+- [ ]  Type switches
+- [ ]  Empty interface / `any`
+- [ ]  Interface composition
+- [ ]  Interface embedding
+- [ ]  Method sets
+- [ ]  Dependency inversion
+- [ ]  Interface-based design
+- [ ]  `io.Reader`
+- [ ]  `io.Writer`
+- [ ]  `error` interface
+

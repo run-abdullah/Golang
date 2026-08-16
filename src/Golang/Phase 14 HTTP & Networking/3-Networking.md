@@ -1,0 +1,8 @@
+- [ ]  TCP
+- [ ]  UDP
+- [ ]  `net.Conn`
+- [ ]  `net.Listener`
+- [ ]  DNS
+- [ ]  IP addresses
+- [ ]  Ports
+- [ ]  Socket concepts

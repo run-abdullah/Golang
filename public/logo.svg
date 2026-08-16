@@ -1,0 +1,11 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" rx="28" fill="#0D0D0D" stroke="#27272A" stroke-width="2"/>
+  
+  <!-- Glowing Brackets -->
+  <path d="M42 40L26 64L42 88" stroke="#A3E635" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M86 40L102 64L86 88" stroke="#A3E635" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Go Monogram inside -->
+  <text x="64" y="71" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="26" fill="#FFFFFF" text-anchor="middle">GO</text>
+  <circle cx="64" cy="86" r="3" fill="#A3E635"/>
+</svg>

@@ -1,0 +1,13 @@
+- [ ]  Structs
+- [ ]  Struct fields
+- [ ]  Nested structs
+- [ ]  Anonymous structs
+- [ ]  Struct literals
+- [ ]  Pointer to struct
+- [ ]  Struct embedding
+- [ ]  Methods
+- [ ]  Value receiver
+- [ ]  Pointer receiver
+- [ ]  Method sets
+- [ ]  Constructor pattern
+- [ ]  Functional options pattern

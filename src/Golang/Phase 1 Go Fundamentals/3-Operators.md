@@ -1,0 +1,6 @@
+- Arithmetic
+- [ ]  Comparison
+- [ ]  Logical
+- [ ]  Assignment
+- [ ]  Bitwise
+- [ ]  Shift operators

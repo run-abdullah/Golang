@@ -1,0 +1,14 @@
+- [ ]  Function declaration
+- [ ]  Parameters
+- [ ]  Return values
+- [ ]  Multiple return values
+- [ ]  Named return values
+- [ ]  Variadic functions
+- [ ]  Anonymous functions
+- [ ]  Closures
+- [ ]  Functions as values
+- [ ]  Higher-order functions
+- [ ]  Recursion
+- [ ]  `defer`
+- [ ]  `panic`
+- [ ]  `recover`

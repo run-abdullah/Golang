@@ -1,0 +1,11 @@
+- [ ]  Slice kya hai
+- [ ]  Length
+- [ ]  Capacity
+- [ ]  `make`
+- [ ]  `append`
+- [ ]  `copy`
+- [ ]  Slicing
+- [ ]  Slice internals
+- [ ]  Backing arrays
+- [ ]  Slice aliasing
+- [ ]  Memory implications

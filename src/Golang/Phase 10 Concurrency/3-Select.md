@@ -1,0 +1,5 @@
+- [ ]  `select`
+- [ ]  Multiple channels
+- [ ]  Default case
+- [ ]  Timeouts
+- [ ]  Cancellation

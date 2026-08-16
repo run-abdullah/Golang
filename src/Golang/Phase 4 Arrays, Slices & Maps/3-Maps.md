@@ -1,0 +1,9 @@
+- [ ]  Map creation
+- [ ]  `make`
+- [ ]  Insert
+- [ ]  Retrieve
+- [ ]  Delete
+- [ ]  Existence check
+- [ ]  Iteration
+- [ ]  Nil maps
+- [ ]  Map internals ka conceptual understanding

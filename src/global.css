@@ -1,0 +1,117 @@
+@import "tailwindcss";
+
+/* =========================================================
+   1. GLOBAL COLOR PALETTE (Change Everything From Here)
+   ========================================================= */
+:root {
+  /* Primary Accent Colors */
+  --accent-primary: #a3e635; /* Main Neon Green Accent */
+  --accent-hover: #84cc16; /* Hover Accent */
+  --accent-glow: rgba(163, 230, 53, 0.25); /* Glow / Shadow color */
+  --accent-text: #000000; /* Text color on active elements */
+
+  /* Background Colors */
+  --bg-main: #0d0d0d; /* Main App Background */
+  --bg-sidebar: #09090b; /* Sidebar Background */
+  --bg-card: #121215; /* Card Background */
+  --bg-hover: #1e1e24; /* Element Hover Background */
+
+  /* Icon Colors */
+  --icon-primary: #a3e635; /* Active / Folder Icons */
+  --icon-muted: #71717a; /* Inactive File / Arrow Icons */
+
+  /* Border Colors */
+  --border-subtle: #27272a;
+}
+/* =========================================================
+   2. GLOBAL SCROLLBAR
+   ========================================================= */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-subtle) transparent;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-main);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-subtle);
+  border-radius: 9999px;
+  border: 2px solid var(--bg-main);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-primary);
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: var(--border-subtle);
+  border-radius: 9999px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-primary);
+}
+
+/* =========================================================
+   3. OBSIDIAN RENDERER STYLES
+   ========================================================= */
+article input[type="checkbox"] {
+  appearance: none;
+  width: 1rem;
+  height: 1rem;
+  border: 1px solid var(--border-subtle);
+  border-radius: 0.25rem;
+  background-color: var(--bg-main);
+  margin-right: 0.5rem;
+  display: inline-grid;
+  place-content: center;
+  vertical-align: middle;
+}
+
+article input[type="checkbox"]:checked {
+  background-color: var(--accent-primary);
+  border-color: var(--accent-primary);
+}
+
+article input[type="checkbox"]:checked::before {
+  content: "✓";
+  font-size: 0.75rem;
+  color: var(--accent-text);
+  font-weight: bold;
+}
+
+article blockquote {
+  border-left: 4px solid var(--accent-primary) !important;
+  background-color: var(--accent-glow) !important;
+  padding: 0.8rem 1.2rem !important;
+  border-radius: 0 0.75rem 0.75rem 0 !important;
+  color: #e4e4e7 !important;
+  font-style: normal !important;
+  margin: 1.5rem 0 !important;
+}
+
+article .obsidian-link {
+  color: var(--accent-primary) !important;
+  background-color: var(--accent-glow);
+  padding: 2px 6px;
+  border-radius: 4px;
+  text-decoration: none !important;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+article .obsidian-link:hover {
+  filter: brightness(1.2);
+}

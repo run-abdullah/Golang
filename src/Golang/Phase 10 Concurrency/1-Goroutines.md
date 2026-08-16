@@ -1,0 +1,5 @@
+- [ ]  Goroutines
+- [ ]  `go` keyword
+- [ ]  Goroutine lifecycle
+- [ ]  Goroutine leaks
+- [ ]  Scheduling basics

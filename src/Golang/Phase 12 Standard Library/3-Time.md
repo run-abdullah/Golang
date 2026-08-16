@@ -1,0 +1,6 @@
+- [ ]  `time.Time`
+- [ ]  `time.Duration`
+- [ ]  Timers
+- [ ]  Tickers
+- [ ]  Time zones
+- [ ]  Deadlines

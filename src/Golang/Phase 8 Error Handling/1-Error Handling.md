@@ -1,0 +1,13 @@
+- [ ]  `error`
+- [ ]  `errors.New`
+- [ ]  `fmt.Errorf`
+- [ ]  Error wrapping
+- [ ]  `%w`
+- [ ]  `errors.Is`
+- [ ]  `errors.As`
+- [ ]  Custom errors
+- [ ]  Sentinel errors
+- [ ]  Error chains
+- [ ]  Error handling patterns
+- [ ]  When to return errors
+- [ ]  When to panic
